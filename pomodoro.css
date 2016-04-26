@@ -1,0 +1,30 @@
+body{
+	background:#3498db;
+	color:#FFF;
+}
+.timer{
+	font-size:50px;
+}
+h1{
+	font-size:60px;
+}
+.controls{
+	font-size:20px;
+}
+.controlBtn{
+	font-size:25px;
+	cursor:pointer;
+	cursor:hand;
+}
+.wrapper{
+	background:#30cd72;
+	border-radius:50%;
+	width:250px;
+	height:250px;
+	margin-left:auto;
+	margin-right:auto;
+	color:#000;
+}
+.wrapper-circle{
+	padding-top:62.5px;
+}
